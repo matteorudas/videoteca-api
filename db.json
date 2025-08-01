@@ -1,0 +1,52 @@
+{
+    "videos": [
+        {
+            "id": 1,
+            "titulo": "Cap #85 El borrego",
+            "capa": "https://img.youtube.com/vi/nzTOkXcPOjo/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=nzTOkXcPOjo"
+        },
+        {
+            "id": 2,
+            "titulo": "Cap #79 El mago",
+            "capa": "https://img.youtube.com/vi/KfQV-CfBPgs/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=KfQV-CfBPgs&t=3s"
+        },
+        {
+            "id": 3,
+            "titulo": "Que está pasando con React: El estado de la comunidad",
+            "capa": "https://img.youtube.com/vi/35Ov4DccveA/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=35Ov4DccveA"
+        },
+        {
+            "id": 4,
+            "titulo": "¿Las VPN son una estafa?",
+            "capa": "https://img.youtube.com/vi/XiTE_o7mHgI/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=XiTE_o7mHgI"
+        },
+        {
+            "id": 5,
+            "titulo": "n8n + WhatsApp + Chatwoot: Crea tu Sistema de Soporte",
+            "capa": "https://img.youtube.com/vi/AOklBFqaDz0/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=AOklBFqaDz0"
+        },
+        {
+            "id": 6,
+            "titulo": "Procesa Mensajes por Lotes en WhatsApp con Redis y N8N",
+            "capa": "https://img.youtube.com/vi/nOEpQ9TAAbM/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=nOEpQ9TAAbM"
+        },
+        {
+            "id": 7,
+            "titulo": "Rels B, Kapo - Carita Angelikal | afroLOVA 25'",
+            "capa": "https://img.youtube.com/vi/Bo4IiHRUBjI/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=Bo4IiHRUBjI&list=RDBo4IiHRUBjI&start_radio=1"
+        },
+        {
+            "id": 8,
+            "titulo": "JUAN DUQUE ft. NANPA BÁSICO - Ojalá | Video Oficial",
+            "capa": "https://img.youtube.com/vi/it-X23-G8kw/mqdefault.jpg",
+            "link": "https://www.youtube.com/watch?v=it-X23-G8kw&list=RDit-X23-G8kw&start_radio=1"
+        }
+    ]
+}
